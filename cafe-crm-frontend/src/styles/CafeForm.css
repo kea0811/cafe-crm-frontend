@@ -1,0 +1,16 @@
+.cafe-image-container {
+  height: 100px;
+  width: 100px;
+  position: relative;
+}
+
+.cafe-image-container img {
+  height: 100%;
+}
+
+.cafe-image-container .close-button {
+  position: absolute;
+  top: 0;
+  right: -10px;
+  cursor: pointer;
+}
